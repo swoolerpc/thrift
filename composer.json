@@ -9,6 +9,7 @@
    "license": [
         "BSD-3-Clause"
     ],
+  version": "1.0",
   "require": {
     "ext-swoole": ">=4.3.0",
     "ext-php": ">=7.2"
