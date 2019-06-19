@@ -6,6 +6,9 @@
     "swoole",
     "thrift"
   ],
+   "license": [
+        "BSD-3-Clause"
+    ],
   "require": {
     "ext-swoole": ">=4.3.0",
     "ext-php": ">=7.2"
