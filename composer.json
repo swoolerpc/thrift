@@ -1,5 +1,6 @@
 {
   "name": "swoolerpc/thrift",
+  "type": "library",
   "keywords": [
     "php",
     "swoole",
